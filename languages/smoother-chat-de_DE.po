@@ -1,0 +1,172 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Smoother-Chat based on ChatGPT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-27 16:40+0000\n"
+"PO-Revision-Date: 2024-02-05 16:08+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.2.2\n"
+"X-Domain: smoother-chat"
+
+#: smoother-chat-plugin.php:319 smoother-chat-plugin.php:320
+msgid "360-Camper-KI: "
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to easily include a ChatGPT window via short code."
+msgstr ""
+"Ein Plugin um sehr einfach mit Hilfe eines Shortcodes ein ChatGTP Fenster "
+"einzubinden."
+
+#: smoother-chat-plugin.php:226
+msgid "Ask me something..."
+msgstr "Frag mich was..."
+
+#. Author of the plugin
+msgid "Christian Muehlbauer"
+msgstr "Christian Muehlbauer"
+
+#: smoother-chat-plugin.php:166
+msgid "Enter here the maximum number of tokens you want allow per Day."
+msgstr ""
+"Gebe hier die maximale Anzahl von Token ein, die du pro Tag zulassen "
+"möchtest."
+
+#: smoother-chat-plugin.php:156
+msgid ""
+"Enter the text for the start prompt here. Describe how you want your chat "
+"assistant to behave. For example: \"You are a helpful, knowledge sharing "
+"chatbot who is expert in Do-it-Yourself camper van teaching.\""
+msgstr ""
+"Gebe hier den Text für die Startaufforderung ein. Beschreibe, wie sich dein "
+"Chat-Assistent verhalten soll. Zum Beispiel: \"Du bist ein hilfsbereiter, "
+"wissensvermittelnder Chatbot, der Experte in Sachen Do-it-Yourself-"
+"Wohnmobilbau ist.\""
+
+#: smoother-chat-plugin.php:493
+msgid "Error making API request."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.360-grad-camper.com/smoother-chat"
+msgstr "https://www.360-grad-camper.com/smoother-chat"
+
+#: smoother-chat-plugin.php:519
+#, fuzzy
+#| msgid ""
+#| "I can currently only do a certain number of free conversations per day. "
+#| "Try again tomorrow! "
+msgid ""
+"I can currently only do a certain number of free conversations per day. Try "
+"again tomorrow!"
+msgstr ""
+"Ich kann derzeit nur eine bestimmte Anzahl von kostenlosen Gesprächen pro "
+"Tag führen. Versuche es morgen wieder! "
+
+#: smoother-chat-plugin.php:176
+msgid "Input-Prompt Tokens"
+msgstr "Input-Prompt Tokens"
+
+#. %s: Name of a city
+#: smoother-chat-plugin.php:186
+msgid "Last active day (%s)"
+msgstr "Letzter aktiver Tag (%s)"
+
+#: smoother-chat-plugin.php:202
+msgid "Last reset date: "
+msgstr "Letztes Reset-Datum: "
+
+#: smoother-chat-plugin.php:145
+msgid ""
+"Make sure that you set any necessary limits on OpenAI regarding the maximum "
+"requests, e.g. per month."
+msgstr ""
+"Vergewissere dich, dass du auf der OpenAI Webseite die notwendigen Grenzen "
+"für die maximalen Anfragen, z. B. pro Monat, festlegst."
+
+#: smoother-chat-plugin.php:162
+msgid "Maximum Tokens per Day: "
+msgstr "Maximale Tokens pro Tag: "
+
+#: smoother-chat-plugin.php:295 smoother-chat-plugin.php:296
+msgid "Me: "
+msgstr "Ich: "
+
+#: smoother-chat-plugin.php:224
+msgid "Minimize."
+msgstr "Minimieren."
+
+#: smoother-chat-plugin.php:228
+msgid "New conversation"
+msgstr "Neue Unterhaltung"
+
+#: smoother-chat-plugin.php:133
+msgid "OpenAI API-Key:"
+msgstr "OpenAI API-Schlüssel:"
+
+#: smoother-chat-plugin.php:145
+msgid "OpenAI. "
+msgstr "OpenAI. "
+
+#: smoother-chat-plugin.php:177
+msgid "Output-Response Tokens"
+msgstr "Output-Response Tokens"
+
+#: smoother-chat-plugin.php:201
+msgid "Reset Tokens"
+msgstr "Tokens zurücksetzen"
+
+#: smoother-chat-plugin.php:207
+msgid "Save settings."
+msgstr "Einstellungen speichern."
+
+#: smoother-chat-plugin.php:81
+msgid "Security Check failed."
+msgstr "Sicherheitsüberprüfung fehlgeschlagen."
+
+#: smoother-chat-plugin.php:227 smoother-chat-plugin.php:229
+msgid "Send"
+msgstr "Senden"
+
+#: smoother-chat-plugin.php:95
+msgid "Settings saved successfully."
+msgstr "Einstellungen erfolgreich gespeichert."
+
+#. Name of the plugin
+msgid "Smoother-Chat based on ChatGPT"
+msgstr "Smoother-Chat Plugin auf Basis von ChatGPT"
+
+#: smoother-chat-plugin.php:121
+msgid "Smoother-Chat Plugin Settings"
+msgstr "Smoother-Chat Plugin Einstellungen"
+
+#: smoother-chat-plugin.php:152
+msgid "Start-Prompt:"
+msgstr "Start-Prompt:"
+
+#: smoother-chat-plugin.php:173
+msgid "Statistics:"
+msgstr "Statistiken:"
+
+#: smoother-chat-plugin.php:138
+msgid "The currently stored OpenAI key is :"
+msgstr "Der aktuell hinterlegt API Key beginnt mit:"
+
+#: smoother-chat-plugin.php:178
+msgid "Total Tokens"
+msgstr "Summe aller Token"
+
+#: smoother-chat-plugin.php:144
+msgid "You can request an ChatGPT API Key on the website of "
+msgstr "Du bekommst einen ChatGPT API Schlüssel auf der Webseite von"
+
+#: smoother-chat-plugin.php:74
+msgid "You do not have permission to access this page."
+msgstr "Du hast keine Berechtigungen, diese Seite zu sehen."

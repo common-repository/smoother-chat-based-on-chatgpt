@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smoother-Chat based on ChatGPT\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-05 16:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.2.2\n"
+"X-Domain: smoother-chat"
+
+#: smoother-chat-plugin.php:319 smoother-chat-plugin.php:320
+msgid "360-Camper-KI: "
+msgstr ""
+
+#. Description of the plugin
+msgid "A plugin to easily include a ChatGPT window via short code."
+msgstr ""
+
+#: smoother-chat-plugin.php:226
+msgid "Ask me something..."
+msgstr ""
+
+#. Author of the plugin
+msgid "Christian Muehlbauer"
+msgstr ""
+
+#: smoother-chat-plugin.php:166
+msgid "Enter here the maximum number of tokens you want allow per Day."
+msgstr ""
+
+#: smoother-chat-plugin.php:156
+msgid ""
+"Enter the text for the start prompt here. Describe how you want your chat "
+"assistant to behave. For example: \"You are a helpful, knowledge sharing "
+"chatbot who is expert in Do-it-Yourself camper van teaching.\""
+msgstr ""
+
+#: smoother-chat-plugin.php:493
+msgid "Error making API request."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.360-grad-camper.com/smoother-chat"
+msgstr ""
+
+#: smoother-chat-plugin.php:519
+msgid ""
+"I can currently only do a certain number of free conversations per day. Try "
+"again tomorrow!"
+msgstr ""
+
+#: smoother-chat-plugin.php:176
+msgid "Input-Prompt Tokens"
+msgstr ""
+
+#. %s: Name of a city
+#: smoother-chat-plugin.php:186
+msgid "Last active day (%s)"
+msgstr ""
+
+#: smoother-chat-plugin.php:202
+msgid "Last reset date: "
+msgstr ""
+
+#: smoother-chat-plugin.php:145
+msgid ""
+"Make sure that you set any necessary limits on OpenAI regarding the maximum "
+"requests, e.g. per month."
+msgstr ""
+
+#: smoother-chat-plugin.php:162
+msgid "Maximum Tokens per Day: "
+msgstr ""
+
+#: smoother-chat-plugin.php:295 smoother-chat-plugin.php:296
+msgid "Me: "
+msgstr ""
+
+#: smoother-chat-plugin.php:224
+msgid "Minimize."
+msgstr ""
+
+#: smoother-chat-plugin.php:228
+msgid "New conversation"
+msgstr ""
+
+#: smoother-chat-plugin.php:133
+msgid "OpenAI API-Key:"
+msgstr ""
+
+#: smoother-chat-plugin.php:145
+msgid "OpenAI. "
+msgstr ""
+
+#: smoother-chat-plugin.php:177
+msgid "Output-Response Tokens"
+msgstr ""
+
+#: smoother-chat-plugin.php:201
+msgid "Reset Tokens"
+msgstr ""
+
+#: smoother-chat-plugin.php:207
+msgid "Save settings."
+msgstr ""
+
+#: smoother-chat-plugin.php:81
+msgid "Security Check failed."
+msgstr ""
+
+#: smoother-chat-plugin.php:227 smoother-chat-plugin.php:229
+msgid "Send"
+msgstr ""
+
+#: smoother-chat-plugin.php:95
+msgid "Settings saved successfully."
+msgstr ""
+
+#. Name of the plugin
+msgid "Smoother-Chat based on ChatGPT"
+msgstr ""
+
+#: smoother-chat-plugin.php:121
+msgid "Smoother-Chat Plugin Settings"
+msgstr ""
+
+#: smoother-chat-plugin.php:152
+msgid "Start-Prompt:"
+msgstr ""
+
+#: smoother-chat-plugin.php:173
+msgid "Statistics:"
+msgstr ""
+
+#: smoother-chat-plugin.php:138
+msgid "The currently stored OpenAI key is :"
+msgstr ""
+
+#: smoother-chat-plugin.php:178
+msgid "Total Tokens"
+msgstr ""
+
+#: smoother-chat-plugin.php:144
+msgid "You can request an ChatGPT API Key on the website of "
+msgstr ""
+
+#: smoother-chat-plugin.php:74
+msgid "You do not have permission to access this page."
+msgstr ""
